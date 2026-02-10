@@ -1,2 +1,2 @@
-![logo](img/logo.png)img/favicon.ico
+![logo](img/logo.png)
 ![](img/favicon.ico)
